@@ -10,10 +10,10 @@ int main()
     printf("brojevi su isti \n");
     }
     else{
-    printf("brojevi su razliciti \n");}
-    c = a+b;
+    printf("brojevi su razliciti \n");
+    c = a+b;}
     printf("ako te zanima njihov zbroj onda je to %d",c);
 
-    }
+    
     return 0;
 }
